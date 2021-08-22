@@ -1,0 +1,25 @@
+{
+  "name": "Ejercicio-Node",
+  "version": "1.0.0",
+  "description": "Desarrollo de una aplicación en Node.js que incluye los módulos File System, HTTP y axios.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielGuatibonza/Ejercicio-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielGuatibonza/Ejercicio-Node/issues"
+  },
+  "homepage": "https://github.com/DanielGuatibonza/Ejercicio-Node#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.0"
+  }
+}
